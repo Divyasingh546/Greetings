@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "/JSxVmJBNgIYYib5bDH5+kI9dOu3LfsyfeKTB543z0nf/njyYrNLvHuyLVzKAYVZFUTyA6/QkNaC5Os1zsD4Hg==",
+  "success": true,
+  "projectFilePath": "D:\\New folder (5)\\greetingsAPI\\greetingsAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\divya singh\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\divya singh\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\divya singh\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\divya singh\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\divya singh\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\divya singh\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
